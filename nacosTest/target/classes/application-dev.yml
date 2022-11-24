@@ -1,0 +1,11 @@
+server:
+  port: 8855
+
+spring:
+  application:
+    name: nacos-test
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 172.2.0.102:8848
+        namespace: dream-cloud
