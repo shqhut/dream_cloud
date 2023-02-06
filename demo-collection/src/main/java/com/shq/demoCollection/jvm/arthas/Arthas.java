@@ -1,10 +1,10 @@
-package com.shq.nacosTest.arthasTest;
+package com.shq.demoCollection.jvm.arthas;
 
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.List;
 
-public class Arhtas {
+public class Arthas {
 
     private static HashSet hashSet = new HashSet();
 

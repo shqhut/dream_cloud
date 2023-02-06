@@ -13,6 +13,7 @@
         <module>renren-generator</module>
         <module>mall-product</module>
         <module>mall-common</module>
+        <module>demo-collection</module>
     </modules>
 
     <parent>
